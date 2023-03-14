@@ -57,3 +57,10 @@ Exiting: Cleaning up .chroma directory
 
 above example shows question was asked and answered using data from URL, then it was left idle for 600 seconds til it was terminated.
 
+**Support**
+
+For Business support or If you encounter any issues or need assistance, please reach out to the script author or consult the respective package documentation:
+
+requests: https://docs.python-requests.org/en/latest/
+beautifulsoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+langchain: https://langchain.readthedocs.io/en/latest/
